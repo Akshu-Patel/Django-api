@@ -2,7 +2,7 @@
 A project setup in Django + MongoDB
 
 ## Technologies used
-* [Django](https://www.djangoproject.com/): The web framework for perfectionists with deadlines (Django builds better web apps with less code).
+* [Django](https://www.djangoproject.com/): The web framework for project management (Django builds better web apps with less code).
 * [DRF](www.django-rest-framework.org/): A powerful and flexible toolkit for building Web APIs
 * [MongoDB]: The database that store the data of api
 
