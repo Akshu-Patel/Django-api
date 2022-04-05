@@ -1,5 +1,5 @@
 # django-rest-api
-A REST api written in Django for people with deadlines
+A project setup in Django + MongoDB
 
 ## Technologies used
 * [Django](https://www.djangoproject.com/): The web framework for perfectionists with deadlines (Django builds better web apps with less code).
